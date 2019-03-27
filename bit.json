@@ -1,0 +1,8 @@
+{
+    "env": {},
+    "dependencies": {
+        "ebyjane.angular/global/ui": "1.0.0"
+    },
+    "componentsDefaultDirectory": "components/{name}",
+    "packageManager": "npm"
+}

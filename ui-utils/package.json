@@ -1,0 +1,14 @@
+{
+    "name": "@bit/ebyjane.angular.global.ui",
+    "version": "1.0.0",
+    "homepage": "https://bit.dev/ebyjane/angular/global/ui",
+    "main": "file/extractFileNameFromPath/index.js",
+    "dependencies": {
+        "sequest": "^0.10.0",
+        "is-array-buffer-x": "^1.3.0"
+    },
+    "devDependencies": {},
+    "peerDependencies": {},
+    "componentRootFolder": "ui-utils",
+    "license": "SEE LICENSE IN LICENSE"
+}
